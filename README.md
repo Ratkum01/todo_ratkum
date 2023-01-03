@@ -1,16 +1,6 @@
-# todo
+# todo_ratkum
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Photo 1](https://github.com/Ratkum01/todo_ratkum/blob/main/assets/readme/todo1.PNG?raw=true)
+![Photo 2](https://github.com/Ratkum01/todo_ratkum/blob/main/assets/readme/todo2.PNG?raw=true)
+![Photo 3](https://github.com/Ratkum01/todo_ratkum/blob/main/assets/readme/todo3.PNG?raw=true)
+![Photo 4](https://github.com/Ratkum01/todo_ratkum/blob/main/assets/readme/todo4.PNG?raw=true)
